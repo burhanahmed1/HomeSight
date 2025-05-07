@@ -1,4 +1,4 @@
-# Housing Prices Prediction and Analysis
+# HomeSight: Hybrid Regression for Housing Prices
 
 ## Introduction
 
